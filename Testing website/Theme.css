@@ -1,0 +1,45 @@
+body {
+	background-color:#3498DB;
+	 background-image: url(cherax.jpg);
+	 background-attachment: fixed;
+	 background-size: cover; 
+}
+h1 {
+	font-family: Verdana;
+	color:blue;
+	text-align: center;
+	font-size: 30pt;
+}
+
+p1 {
+	line-height: 1.5em;
+	font-size: 20pt;
+}	
+ 
+ p2 {
+	 line-height: 1.5em;
+ }
+
+h2 { 
+	color: green;
+} 
+
+h3 {
+	color: red;
+	
+}
+ h4 {
+	 color: lime;
+	 
+ }
+ 
+
+ div {
+	 width: 600px;
+	 margin-right: auto;
+	 margin-left: auto;
+	 background-color: rgba(245, 238, 248, 0.5);
+	 padding: 20px;
+	 border: 5px solid black;
+	
+}
