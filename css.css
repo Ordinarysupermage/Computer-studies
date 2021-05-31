@@ -1,0 +1,34 @@
+body {
+	background-color: #d6e0f5;
+	 background-image: url(Logo.jpg);
+	 background-attachment: fixed;
+	 background-size: cover; 
+	
+}
+h1 {
+	font-family: Verdana;
+	color:black;
+	text-align: center;
+	font-size: 40px;
+}
+div {
+	 width: 600px;
+	 margin-right: 0;
+	 margin-left: 764;
+	 background-color:  #d6e0f5;
+	 padding: 20px;
+	 border: 5px solid black;
+	 margin-bottom: 300px;
+	 
+}
+p1{
+	font-family: 'News Cycle', sans-serif;
+	font-size: 13pt;
+}
+img{
+	width: 300px;
+	float: right; 
+	margin-left: 10px;
+	border: 7px #000000 solid;
+	border-radios: 30px;
+}
